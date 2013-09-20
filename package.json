@@ -2,7 +2,7 @@
   "name": "json-bodyparser",
   "description": "middleware for receiving json via FormData",
   "version": "0.1.0",
-  "main": "json-bodyparser.js",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git://github.com/ricardobeat/json-bodyparser.git"
